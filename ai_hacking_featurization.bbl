@@ -1,0 +1,780 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{45}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{}, \showDOI{}, and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showDOI}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showDOI #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showDOI      \undefined \def \showDOI       #1{#1}\fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[\protect\citeauthoryear{Adnan and Akbar}{Adnan and Akbar}{2019}]%
+        {adnan_analytical_2019}
+\bibfield{author}{\bibinfo{person}{Kiran Adnan} {and} \bibinfo{person}{Rehan
+  Akbar}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{An analytical study of information extraction from
+  unstructured and multidimensional big data}.
+\newblock \bibinfo{journal}{\emph{Journal of Big Data}} \bibinfo{volume}{6},
+  \bibinfo{number}{1} (\bibinfo{date}{Dec.} \bibinfo{year}{2019}),
+  \bibinfo{pages}{91}.
+\newblock
+\showISSN{2196-1115}
+\urldef\tempurl%
+\url{https://doi.org/10.1186/s40537-019-0254-8}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Asaro}{Asaro}{2019}]%
+        {asaro_what_2019}
+\bibfield{author}{\bibinfo{person}{Peter Asaro}.}
+  \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{What is an artificial intelligence arms race
+  anyway}.
+\newblock \bibinfo{journal}{\emph{ISJLP}}  \bibinfo{volume}{15}
+  (\bibinfo{year}{2019}), \bibinfo{pages}{45}.
+\newblock
+\newblock
+\shownote{Publisher: HeinOnline.}
+
+
+\bibitem[\protect\citeauthoryear{Bai, Kolter, and Koltun}{Bai
+  et~al\mbox{.}}{2018}]%
+        {bai_empirical_2018}
+\bibfield{author}{\bibinfo{person}{Shaojie Bai}, \bibinfo{person}{J~Zico
+  Kolter}, {and} \bibinfo{person}{Vladlen Koltun}.}
+  \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{An empirical evaluation of generic convolutional
+  and recurrent networks for sequence modeling}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:1803.01271}}
+  (\bibinfo{year}{2018}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Balducci and Marinova}{Balducci and
+  Marinova}{2018}]%
+        {balducci_unstructured_2018}
+\bibfield{author}{\bibinfo{person}{Bitty Balducci} {and}
+  \bibinfo{person}{Detelina Marinova}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Unstructured data in marketing}.
+\newblock \bibinfo{journal}{\emph{Journal of the Academy of Marketing Science}}
+  \bibinfo{volume}{46}, \bibinfo{number}{4} (\bibinfo{date}{July}
+  \bibinfo{year}{2018}), \bibinfo{pages}{557--590}.
+\newblock
+\showISSN{0092-0703, 1552-7824}
+\urldef\tempurl%
+\url{https://doi.org/10.1007/s11747-018-0581-x}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Bengio, Courville, and Vincent}{Bengio
+  et~al\mbox{.}}{2013}]%
+        {bengio_representation_2013}
+\bibfield{author}{\bibinfo{person}{Y. Bengio}, \bibinfo{person}{A. Courville},
+  {and} \bibinfo{person}{P. Vincent}.} \bibinfo{year}{2013}\natexlab{}.
+\newblock \showarticletitle{Representation {Learning}: {A} {Review} and {New}
+  {Perspectives}}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Pattern Analysis and
+  Machine Intelligence}} \bibinfo{volume}{35}, \bibinfo{number}{8}
+  (\bibinfo{date}{Aug.} \bibinfo{year}{2013}), \bibinfo{pages}{1798--1828}.
+\newblock
+\showISSN{0162-8828, 2160-9292}
+\urldef\tempurl%
+\url{https://doi.org/10.1109/TPAMI.2013.50}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Cath}{Cath}{2018}]%
+        {cath_governing_2018}
+\bibfield{author}{\bibinfo{person}{Corinne Cath}.}
+  \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Governing artificial intelligence: ethical, legal
+  and technical opportunities and challenges}.
+\newblock \bibinfo{journal}{\emph{Philosophical Transactions of the Royal
+  Society A: Mathematical, Physical and Engineering Sciences}}
+  \bibinfo{volume}{376}, \bibinfo{number}{2133} (\bibinfo{date}{Nov.}
+  \bibinfo{year}{2018}), \bibinfo{pages}{20180080}.
+\newblock
+\showISSN{1364-503X, 1471-2962}
+\urldef\tempurl%
+\url{https://doi.org/10.1098/rsta.2018.0080}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Chatsiou and Mikhaylov}{Chatsiou and
+  Mikhaylov}{2020}]%
+        {chatsiou_deep_2020}
+\bibfield{author}{\bibinfo{person}{Kakia Chatsiou} {and}
+  \bibinfo{person}{Slava~Jankin Mikhaylov}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Deep {Learning} for {Political} {Science}}.
+\newblock \bibinfo{journal}{\emph{arXiv:2005.06540 [cs]}} (\bibinfo{date}{May}
+  \bibinfo{year}{2020}).
+\newblock
+\urldef\tempurl%
+\url{http://arxiv.org/abs/2005.06540}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{arXiv: 2005.06540.}
+
+
+\bibitem[\protect\citeauthoryear{D'Amour, Heller, Moldovan, Adlam, Alipanahi,
+  Beutel, Chen, Deaton, Eisenstein, Hoffman, Hormozdiari, Houlsby, Hou, Jerfel,
+  Karthikesalingam, Lucic, Ma, McLean, Mincu, Mitani, Montanari, Nado,
+  Natarajan, Nielson, Osborne, Raman, Ramasamy, Sayres, Schrouff, Seneviratne,
+  Sequeira, Suresh, Veitch, Vladymyrov, Wang, Webster, Yadlowsky, Yun, Zhai,
+  and Sculley}{D'Amour et~al\mbox{.}}{2020}]%
+        {damour_underspecification_2020}
+\bibfield{author}{\bibinfo{person}{Alexander D'Amour},
+  \bibinfo{person}{Katherine Heller}, \bibinfo{person}{Dan Moldovan},
+  \bibinfo{person}{Ben Adlam}, \bibinfo{person}{Babak Alipanahi},
+  \bibinfo{person}{Alex Beutel}, \bibinfo{person}{Christina Chen},
+  \bibinfo{person}{Jonathan Deaton}, \bibinfo{person}{Jacob Eisenstein},
+  \bibinfo{person}{Matthew~D. Hoffman}, \bibinfo{person}{Farhad Hormozdiari},
+  \bibinfo{person}{Neil Houlsby}, \bibinfo{person}{Shaobo Hou},
+  \bibinfo{person}{Ghassen Jerfel}, \bibinfo{person}{Alan Karthikesalingam},
+  \bibinfo{person}{Mario Lucic}, \bibinfo{person}{Yian Ma},
+  \bibinfo{person}{Cory McLean}, \bibinfo{person}{Diana Mincu},
+  \bibinfo{person}{Akinori Mitani}, \bibinfo{person}{Andrea Montanari},
+  \bibinfo{person}{Zachary Nado}, \bibinfo{person}{Vivek Natarajan},
+  \bibinfo{person}{Christopher Nielson}, \bibinfo{person}{Thomas~F. Osborne},
+  \bibinfo{person}{Rajiv Raman}, \bibinfo{person}{Kim Ramasamy},
+  \bibinfo{person}{Rory Sayres}, \bibinfo{person}{Jessica Schrouff},
+  \bibinfo{person}{Martin Seneviratne}, \bibinfo{person}{Shannon Sequeira},
+  \bibinfo{person}{Harini Suresh}, \bibinfo{person}{Victor Veitch},
+  \bibinfo{person}{Max Vladymyrov}, \bibinfo{person}{Xuezhi Wang},
+  \bibinfo{person}{Kellie Webster}, \bibinfo{person}{Steve Yadlowsky},
+  \bibinfo{person}{Taedong Yun}, \bibinfo{person}{Xiaohua Zhai}, {and}
+  \bibinfo{person}{D. Sculley}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Underspecification {Presents} {Challenges} for
+  {Credibility} in {Modern} {Machine} {Learning}}.
+\newblock \bibinfo{journal}{\emph{arXiv:2011.03395 [cs, stat]}}
+  (\bibinfo{date}{Nov.} \bibinfo{year}{2020}).
+\newblock
+\urldef\tempurl%
+\url{http://arxiv.org/abs/2011.03395}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{arXiv: 2011.03395.}
+
+
+\bibitem[\protect\citeauthoryear{Devlin, Chang, Lee, and Toutanova}{Devlin
+  et~al\mbox{.}}{2018}]%
+        {devlin_bert_2018}
+\bibfield{author}{\bibinfo{person}{Jacob Devlin}, \bibinfo{person}{Ming-Wei
+  Chang}, \bibinfo{person}{Kenton Lee}, {and} \bibinfo{person}{Kristina
+  Toutanova}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Bert: {Pre}-training of deep bidirectional
+  transformers for language understanding}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:1810.04805}}
+  (\bibinfo{year}{2018}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Farahani, Voghoei, Rasheed, and
+  Arabnia}{Farahani et~al\mbox{.}}{2020}]%
+        {farahani_brief_2020}
+\bibfield{author}{\bibinfo{person}{Abolfazl Farahani}, \bibinfo{person}{Sahar
+  Voghoei}, \bibinfo{person}{Khaled Rasheed}, {and} \bibinfo{person}{Hamid~R.
+  Arabnia}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{A {Brief} {Review} of {Domain} {Adaptation}}.
+\newblock \bibinfo{journal}{\emph{arXiv:2010.03978 [cs]}} (\bibinfo{date}{Oct.}
+  \bibinfo{year}{2020}).
+\newblock
+\urldef\tempurl%
+\url{http://arxiv.org/abs/2010.03978}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{arXiv: 2010.03978.}
+
+
+\bibitem[\protect\citeauthoryear{Farrell and Schneier}{Farrell and
+  Schneier}{2018}]%
+        {farrell_common-knowledge_2018}
+\bibfield{author}{\bibinfo{person}{Henry~John Farrell} {and}
+  \bibinfo{person}{Bruce Schneier}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Common-{Knowledge} {Attacks} on
+  {Democracy}}}.
+\newblock \bibinfo{type}{{T}echnical {R}eport} 2018-7.
+  \bibinfo{institution}{Berkman Klein Center, Harvard University}.
+\newblock
+\urldef\tempurl%
+\url{https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3273111}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Fox, Sanders, Fridel, Duwe, and Rocque}{Fox
+  et~al\mbox{.}}{2021}]%
+        {fox_contagion_2021}
+\bibfield{author}{\bibinfo{person}{James~Alan Fox}, \bibinfo{person}{Nathan~E
+  Sanders}, \bibinfo{person}{Emma~E Fridel}, \bibinfo{person}{Grant Duwe},
+  {and} \bibinfo{person}{Michael Rocque}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{The {Contagion} of {Mass} {Shootings}: {The}
+  {Interdependence} of {Large}-{Scale} {Massacres} and {Mass} {Media}
+  {Coverage}}.
+\newblock \bibinfo{journal}{\emph{Statistics and Public Policy}}
+  \bibinfo{number}{just-accepted} (\bibinfo{year}{2021}),
+  \bibinfo{pages}{1--22}.
+\newblock
+\newblock
+\shownote{Publisher: Taylor \& Francis.}
+
+
+\bibitem[\protect\citeauthoryear{Geirhos, Jacobsen, Michaelis, Zemel, Brendel,
+  Bethge, and Wichmann}{Geirhos et~al\mbox{.}}{2020}]%
+        {geirhos_shortcut_2020}
+\bibfield{author}{\bibinfo{person}{Robert Geirhos},
+  \bibinfo{person}{Jörn-Henrik Jacobsen}, \bibinfo{person}{Claudio Michaelis},
+  \bibinfo{person}{Richard Zemel}, \bibinfo{person}{Wieland Brendel},
+  \bibinfo{person}{Matthias Bethge}, {and} \bibinfo{person}{Felix~A.
+  Wichmann}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Shortcut learning in deep neural networks}.
+\newblock \bibinfo{journal}{\emph{Nature Machine Intelligence}}
+  \bibinfo{volume}{2}, \bibinfo{number}{11} (\bibinfo{date}{Nov.}
+  \bibinfo{year}{2020}), \bibinfo{pages}{665--673}.
+\newblock
+\showISSN{2522-5839}
+\urldef\tempurl%
+\url{https://doi.org/10.1038/s42256-020-00257-z}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Gong and Cheng}{Gong and Cheng}{2019}]%
+        {gong_exploiting_2019}
+\bibfield{author}{\bibinfo{person}{Liyu Gong} {and} \bibinfo{person}{Qiang
+  Cheng}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Exploiting edge features for graph neural
+  networks}. In \bibinfo{booktitle}{\emph{Proceedings of the {IEEE}/{CVF}
+  {Conference} on {Computer} {Vision} and {Pattern} {Recognition}}}.
+  \bibinfo{pages}{9211--9219}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Gruetzemacher, Paradice, and
+  Lee}{Gruetzemacher et~al\mbox{.}}{2019}]%
+        {gruetzemacher_forecasting_2019}
+\bibfield{author}{\bibinfo{person}{Ross Gruetzemacher}, \bibinfo{person}{David
+  Paradice}, {and} \bibinfo{person}{Kang~Bok Lee}.}
+  \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Forecasting {Transformative} {AI}: {An} {Expert}
+  {Survey}}.
+\newblock \bibinfo{journal}{\emph{arXiv:1901.08579 [cs]}} (\bibinfo{date}{July}
+  \bibinfo{year}{2019}).
+\newblock
+\urldef\tempurl%
+\url{http://arxiv.org/abs/1901.08579}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{arXiv: 1901.08579.}
+
+
+\bibitem[\protect\citeauthoryear{Hu, Fey, Zitnik, Dong, Ren, Liu, Catasta, and
+  Leskovec}{Hu et~al\mbox{.}}{2020}]%
+        {hu_open_2020}
+\bibfield{author}{\bibinfo{person}{Weihua Hu}, \bibinfo{person}{Matthias Fey},
+  \bibinfo{person}{Marinka Zitnik}, \bibinfo{person}{Yuxiao Dong},
+  \bibinfo{person}{Hongyu Ren}, \bibinfo{person}{Bowen Liu},
+  \bibinfo{person}{Michele Catasta}, {and} \bibinfo{person}{Jure Leskovec}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Open graph benchmark: {Datasets} for machine
+  learning on graphs}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2005.00687}}
+  (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Huang, Xu, and Yu}{Huang
+  et~al\mbox{.}}{2015}]%
+        {huang_bidirectional_2015}
+\bibfield{author}{\bibinfo{person}{Zhiheng Huang}, \bibinfo{person}{Wei Xu},
+  {and} \bibinfo{person}{Kai Yu}.} \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{Bidirectional {LSTM}-{CRF} models for sequence
+  tagging}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:1508.01991}}
+  (\bibinfo{year}{2015}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Jobin, Ienca, and Vayena}{Jobin
+  et~al\mbox{.}}{2019}]%
+        {jobin_global_2019}
+\bibfield{author}{\bibinfo{person}{Anna Jobin}, \bibinfo{person}{Marcello
+  Ienca}, {and} \bibinfo{person}{Effy Vayena}.}
+  \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{The global landscape of {AI} ethics guidelines}.
+\newblock \bibinfo{journal}{\emph{Nature Machine Intelligence}}
+  \bibinfo{volume}{1}, \bibinfo{number}{9} (\bibinfo{date}{Sept.}
+  \bibinfo{year}{2019}), \bibinfo{pages}{389--399}.
+\newblock
+\showISSN{2522-5839}
+\urldef\tempurl%
+\url{https://doi.org/10.1038/s42256-019-0088-2}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Khalid, Khalil, and Nasreen}{Khalid
+  et~al\mbox{.}}{2014}]%
+        {khalid_survey_2014}
+\bibfield{author}{\bibinfo{person}{Samina Khalid}, \bibinfo{person}{Tehmina
+  Khalil}, {and} \bibinfo{person}{Shamila Nasreen}.}
+  \bibinfo{year}{2014}\natexlab{}.
+\newblock \showarticletitle{A survey of feature selection and feature
+  extraction techniques in machine learning}. In \bibinfo{booktitle}{\emph{2014
+  science and information conference}}. \bibinfo{publisher}{IEEE},
+  \bibinfo{pages}{372--378}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Kira and Rendell}{Kira and Rendell}{1992}]%
+        {kira_practical_1992}
+\bibfield{author}{\bibinfo{person}{Kenji Kira} {and} \bibinfo{person}{Larry~A
+  Rendell}.} \bibinfo{year}{1992}\natexlab{}.
+\newblock \showarticletitle{A practical approach to feature selection}.
+\newblock In \bibinfo{booktitle}{\emph{Machine learning proceedings 1992}}.
+  \bibinfo{publisher}{Elsevier}, \bibinfo{pages}{249--256}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Kouw and Loog}{Kouw and Loog}{2018}]%
+        {kouw_introduction_2018}
+\bibfield{author}{\bibinfo{person}{Wouter~M Kouw} {and} \bibinfo{person}{Marco
+  Loog}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{An introduction to domain adaptation and transfer
+  learning}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:1812.11806}}
+  (\bibinfo{year}{2018}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Li, Wu, and Ngom}{Li et~al\mbox{.}}{2016}]%
+        {li_review_2016}
+\bibfield{author}{\bibinfo{person}{Yifeng Li}, \bibinfo{person}{Fang-Xiang Wu},
+  {and} \bibinfo{person}{Alioune Ngom}.} \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{A review on machine learning principles for
+  multi-view biological data integration}.
+\newblock \bibinfo{journal}{\emph{Briefings in Bioinformatics}}
+  (\bibinfo{date}{Dec.} \bibinfo{year}{2016}), \bibinfo{pages}{bbw113}.
+\newblock
+\showISSN{1467-5463, 1477-4054}
+\urldef\tempurl%
+\url{https://doi.org/10.1093/bib/bbw113}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Lin and Kerr}{Lin and Kerr}{2019}]%
+        {lin_cyber-enabled_2019}
+\bibfield{author}{\bibinfo{person}{Herbert Lin} {and} \bibinfo{person}{Jaclyn
+  Kerr}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{On {Cyber}-{Enabled} {Information}
+  {Warfare} and {Information} {Operations}.}}
+\newblock \bibinfo{type}{Working {Paper}}. \bibinfo{institution}{Center for
+  International Security and Cooperation (CISAC)}.
+\newblock
+\urldef\tempurl%
+\url{https://ssrn.com/abstract=3015680}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Linderman and Adams}{Linderman and
+  Adams}{2015}]%
+        {linderman_scalable_2015}
+\bibfield{author}{\bibinfo{person}{Scott~W. Linderman} {and}
+  \bibinfo{person}{Ryan~P. Adams}.} \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{Scalable {Bayesian} {Inference} for {Excitatory}
+  {Point} {Process} {Networks}}.
+\newblock \bibinfo{journal}{\emph{arXiv:1507.03228 [stat]}}
+  (\bibinfo{date}{July} \bibinfo{year}{2015}).
+\newblock
+\urldef\tempurl%
+\url{http://arxiv.org/abs/1507.03228}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{arXiv: 1507.03228.}
+
+
+\bibitem[\protect\citeauthoryear{McCallum}{McCallum}{2005}]%
+        {mccallum_information_2005}
+\bibfield{author}{\bibinfo{person}{Andrew McCallum}.}
+  \bibinfo{year}{2005}\natexlab{}.
+\newblock \showarticletitle{Information extraction: {Distilling} structured
+  data from unstructured text}.
+\newblock \bibinfo{journal}{\emph{Queue}} \bibinfo{volume}{3},
+  \bibinfo{number}{9} (\bibinfo{year}{2005}), \bibinfo{pages}{48--57}.
+\newblock
+\newblock
+\shownote{Publisher: ACM New York, NY, USA.}
+
+
+\bibitem[\protect\citeauthoryear{Meftah, Semmar, Tahiri, Tamaazousti, Essafi,
+  and Sadat}{Meftah et~al\mbox{.}}{2020}]%
+        {meftah_multi-task_2020}
+\bibfield{author}{\bibinfo{person}{Sara Meftah}, \bibinfo{person}{Nasredine
+  Semmar}, \bibinfo{person}{Mohamed-Ayoub Tahiri}, \bibinfo{person}{Youssef
+  Tamaazousti}, \bibinfo{person}{Hassane Essafi}, {and} \bibinfo{person}{Fatiha
+  Sadat}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Multi-{Task} {Supervised} {Pretraining} for
+  {Neural} {Domain} {Adaptation}}. In \bibinfo{booktitle}{\emph{Proceedings of
+  the {Eighth} {International} {Workshop} on {Natural} {Language} {Processing}
+  for {Social} {Media}}}. \bibinfo{publisher}{Association for Computational
+  Linguistics}, \bibinfo{address}{Online}, \bibinfo{pages}{61--71}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.18653/v1/2020.socialnlp-1.8}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Muzio, O’Bray, and Borgwardt}{Muzio
+  et~al\mbox{.}}{2021}]%
+        {muzio_biological_2021}
+\bibfield{author}{\bibinfo{person}{Giulia Muzio}, \bibinfo{person}{Leslie
+  O’Bray}, {and} \bibinfo{person}{Karsten Borgwardt}.}
+  \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Biological network analysis with deep learning}.
+\newblock \bibinfo{journal}{\emph{Briefings in Bioinformatics}}
+  \bibinfo{volume}{22}, \bibinfo{number}{2} (\bibinfo{date}{March}
+  \bibinfo{year}{2021}), \bibinfo{pages}{1515--1530}.
+\newblock
+\showISSN{1467-5463, 1477-4054}
+\urldef\tempurl%
+\url{https://doi.org/10.1093/bib/bbaa257}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Ngiam, Khosla, Kim, Nam, Lee, and Ng}{Ngiam
+  et~al\mbox{.}}{2011}]%
+        {ngiam_multimodal_2011}
+\bibfield{author}{\bibinfo{person}{Jiquan Ngiam}, \bibinfo{person}{Aditya
+  Khosla}, \bibinfo{person}{Mingyu Kim}, \bibinfo{person}{Juhan Nam},
+  \bibinfo{person}{Honglak Lee}, {and} \bibinfo{person}{Andrew~Y. Ng}.}
+  \bibinfo{year}{2011}\natexlab{}.
+\newblock \showarticletitle{Multimodal {Deep} {Learning}}. In
+  \bibinfo{booktitle}{\emph{{ICML}}}. \bibinfo{pages}{689--696}.
+\newblock
+\urldef\tempurl%
+\url{https://icml.cc/2011/papers/399_icmlpaper.pdf}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Parkin}{Parkin}{2020}]%
+        {parkin_game_2020}
+\bibfield{author}{\bibinfo{person}{Simon Parkin}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{A game of {Birds} and {Wolves}: the
+  ingenious young women whose secret board game helped {Win} {World} {War}
+  {II}}}.
+\newblock \bibinfo{publisher}{Little, Brown and Company}, \bibinfo{address}{New
+  York}.
+\newblock
+\showISBNx{978-0-316-49209-6}
+
+
+\bibitem[\protect\citeauthoryear{Rességuier and Rodrigues}{Rességuier and
+  Rodrigues}{2020}]%
+        {resseguier_ai_2020}
+\bibfield{author}{\bibinfo{person}{Anaïs Rességuier} {and}
+  \bibinfo{person}{Rowena Rodrigues}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{\textit{{AI} ethics should not remain toothless!}
+  {A} call to bring back the teeth of ethics}.
+\newblock \bibinfo{journal}{\emph{Big Data \& Society}} \bibinfo{volume}{7},
+  \bibinfo{number}{2} (\bibinfo{date}{July} \bibinfo{year}{2020}),
+  \bibinfo{pages}{205395172094254}.
+\newblock
+\showISSN{2053-9517, 2053-9517}
+\urldef\tempurl%
+\url{https://doi.org/10.1177/2053951720942541}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Rowe and Stonebraker}{Rowe and
+  Stonebraker}{1987}]%
+        {rowe_postgres_1987}
+\bibfield{author}{\bibinfo{person}{Lawrence~A Rowe} {and}
+  \bibinfo{person}{Michael~R Stonebraker}.} \bibinfo{year}{1987}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{The {POSTGRES} data model}}.
+\newblock \bibinfo{type}{{T}echnical {R}eport}.
+  \bibinfo{institution}{CALIFORNIA UNIV BERKELEY DEPT OF ELECTRICAL ENGINEERING
+  AND COMPUTER SCIENCE}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Rudin}{Rudin}{2019}]%
+        {rudin_stop_2019}
+\bibfield{author}{\bibinfo{person}{Cynthia Rudin}.}
+  \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Stop explaining black box machine learning models
+  for high stakes decisions and use interpretable models instead}.
+\newblock \bibinfo{journal}{\emph{Nature Machine Intelligence}}
+  \bibinfo{volume}{1}, \bibinfo{number}{5} (\bibinfo{date}{May}
+  \bibinfo{year}{2019}), \bibinfo{pages}{206--215}.
+\newblock
+\showISSN{2522-5839}
+\urldef\tempurl%
+\url{https://doi.org/10.1038/s42256-019-0048-x}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Ruprechter, Khosmood, and Guetl}{Ruprechter
+  et~al\mbox{.}}{2020}]%
+        {ruprechter_deconstructing_2020}
+\bibfield{author}{\bibinfo{person}{Thorsten Ruprechter}, \bibinfo{person}{Foaad
+  Khosmood}, {and} \bibinfo{person}{Christian Guetl}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Deconstructing {Human}-assisted {Video}
+  {Transcription} and {Annotation} for {Legislative} {Proceedings}}.
+\newblock \bibinfo{journal}{\emph{Digital Government: Research and Practice}}
+  \bibinfo{volume}{1}, \bibinfo{number}{3} (\bibinfo{date}{Dec.}
+  \bibinfo{year}{2020}), \bibinfo{pages}{1--24}.
+\newblock
+\showISSN{2691-199X, 2639-0175}
+\urldef\tempurl%
+\url{https://doi.org/10.1145/3395316}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Schneier}{Schneier}{2021}]%
+        {schneier_coming_2021}
+\bibfield{author}{\bibinfo{person}{Bruce Schneier}.}
+  \bibinfo{year}{2021}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{The {Coming} {AI} {Hackers}}}.
+\newblock \bibinfo{type}{{T}echnical {R}eport}. \bibinfo{institution}{Harvard
+  Kennedy School}, \bibinfo{address}{Belfer Center for Science and
+  International Affairs}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Smuha}{Smuha}{2021}]%
+        {smuha_race_2021}
+\bibfield{author}{\bibinfo{person}{Nathalie~A. Smuha}.}
+  \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{From a ‘race to {AI}’ to a ‘race to {AI}
+  regulation’: regulatory competition for artificial intelligence}.
+\newblock \bibinfo{journal}{\emph{Law, Innovation and Technology}}
+  \bibinfo{volume}{13}, \bibinfo{number}{1} (\bibinfo{date}{Jan.}
+  \bibinfo{year}{2021}), \bibinfo{pages}{57--84}.
+\newblock
+\showISSN{1757-9961, 1757-997X}
+\urldef\tempurl%
+\url{https://doi.org/10.1080/17579961.2021.1898300}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Stray}{Stray}{2019}]%
+        {stray_making_2019}
+\bibfield{author}{\bibinfo{person}{Jonathan Stray}.}
+  \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Making {Artificial} {Intelligence} {Work} for
+  {Investigative} {Journalism}}.
+\newblock \bibinfo{journal}{\emph{Digital Journalism}} \bibinfo{volume}{7},
+  \bibinfo{number}{8} (\bibinfo{date}{Sept.} \bibinfo{year}{2019}),
+  \bibinfo{pages}{1076--1097}.
+\newblock
+\showISSN{2167-0811, 2167-082X}
+\urldef\tempurl%
+\url{https://doi.org/10.1080/21670811.2019.1630289}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Taddeo and Floridi}{Taddeo and
+  Floridi}{2018}]%
+        {taddeo_regulate_2018}
+\bibfield{author}{\bibinfo{person}{Mariarosaria Taddeo} {and}
+  \bibinfo{person}{Luciano Floridi}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Regulate artificial intelligence to avert cyber
+  arms race}.
+\newblock \bibinfo{journal}{\emph{Nature}} \bibinfo{volume}{556},
+  \bibinfo{number}{7701} (\bibinfo{date}{April} \bibinfo{year}{2018}),
+  \bibinfo{pages}{296--298}.
+\newblock
+\showISSN{0028-0836, 1476-4687}
+\urldef\tempurl%
+\url{https://doi.org/10.1038/d41586-018-04602-6}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Wang, Chen, Hao, Feng, and Shen}{Wang
+  et~al\mbox{.}}{2017}]%
+        {wang_balanced_2017}
+\bibfield{author}{\bibinfo{person}{Jindong Wang}, \bibinfo{person}{Yiqiang
+  Chen}, \bibinfo{person}{Shuji Hao}, \bibinfo{person}{Wenjie Feng}, {and}
+  \bibinfo{person}{Zhiqi Shen}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Balanced {Distribution} {Adaptation} for {Transfer}
+  {Learning}}. In \bibinfo{booktitle}{\emph{2017 {IEEE} {International}
+  {Conference} on {Data} {Mining} ({ICDM})}}. \bibinfo{publisher}{IEEE},
+  \bibinfo{address}{New Orleans, LA}, \bibinfo{pages}{1129--1134}.
+\newblock
+\showISBNx{978-1-5386-3835-4}
+\urldef\tempurl%
+\url{https://doi.org/10.1109/ICDM.2017.150}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Wang, Juefei-Xu, Ma, Xie, Huang, Wang, and
+  Liu}{Wang et~al\mbox{.}}{2020a}]%
+        {wang_fakespotter_2020}
+\bibfield{author}{\bibinfo{person}{Run Wang}, \bibinfo{person}{Felix
+  Juefei-Xu}, \bibinfo{person}{Lei Ma}, \bibinfo{person}{Xiaofei Xie},
+  \bibinfo{person}{Yihao Huang}, \bibinfo{person}{Jian Wang}, {and}
+  \bibinfo{person}{Yang Liu}.} \bibinfo{year}{2020}\natexlab{a}.
+\newblock \showarticletitle{{FakeSpotter}: {A} {Simple} yet {Robust} {Baseline}
+  for {Spotting} {AI}-{Synthesized} {Fake} {Faces}}.
+\newblock \bibinfo{journal}{\emph{arXiv:1909.06122 [cs]}} (\bibinfo{date}{July}
+  \bibinfo{year}{2020}).
+\newblock
+\urldef\tempurl%
+\url{http://arxiv.org/abs/1909.06122}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{arXiv: 1909.06122.}
+
+
+\bibitem[\protect\citeauthoryear{Wang, Yao, Kwok, and Ni}{Wang
+  et~al\mbox{.}}{2020b}]%
+        {wang_generalizing_2020}
+\bibfield{author}{\bibinfo{person}{Yaqing Wang}, \bibinfo{person}{Quanming
+  Yao}, \bibinfo{person}{James~T. Kwok}, {and} \bibinfo{person}{Lionel~M. Ni}.}
+  \bibinfo{year}{2020}\natexlab{b}.
+\newblock \showarticletitle{Generalizing from a {Few} {Examples}: {A} {Survey}
+  on {Few}-shot {Learning}}.
+\newblock \bibinfo{journal}{\emph{Comput. Surveys}} \bibinfo{volume}{53},
+  \bibinfo{number}{3} (\bibinfo{date}{July} \bibinfo{year}{2020}),
+  \bibinfo{pages}{1--34}.
+\newblock
+\showISSN{0360-0300, 1557-7341}
+\urldef\tempurl%
+\url{https://doi.org/10.1145/3386252}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Wilson and Izmailov}{Wilson and
+  Izmailov}{2020}]%
+        {wilson_bayesian_2020}
+\bibfield{author}{\bibinfo{person}{Andrew~Gordon Wilson} {and}
+  \bibinfo{person}{Pavel Izmailov}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Bayesian {Deep} {Learning} and a {Probabilistic}
+  {Perspective} of {Generalization}}.
+\newblock \bibinfo{journal}{\emph{arXiv:2002.08791 [cs, stat]}}
+  (\bibinfo{date}{April} \bibinfo{year}{2020}).
+\newblock
+\urldef\tempurl%
+\url{http://arxiv.org/abs/2002.08791}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{arXiv: 2002.08791.}
+
+
+\bibitem[\protect\citeauthoryear{Xian, Lampert, Schiele, and Akata}{Xian
+  et~al\mbox{.}}{2019}]%
+        {xian_zero-shot_2019}
+\bibfield{author}{\bibinfo{person}{Yongqin Xian}, \bibinfo{person}{Christoph~H.
+  Lampert}, \bibinfo{person}{Bernt Schiele}, {and} \bibinfo{person}{Zeynep
+  Akata}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Zero-{Shot} {Learning}—{A} {Comprehensive}
+  {Evaluation} of the {Good}, the {Bad} and the {Ugly}}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Pattern Analysis and
+  Machine Intelligence}} \bibinfo{volume}{41}, \bibinfo{number}{9}
+  (\bibinfo{date}{Sept.} \bibinfo{year}{2019}), \bibinfo{pages}{2251--2265}.
+\newblock
+\showISSN{0162-8828, 2160-9292, 1939-3539}
+\urldef\tempurl%
+\url{https://doi.org/10.1109/TPAMI.2018.2857768}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Xiao, Gu, Wang, and Wu}{Xiao
+  et~al\mbox{.}}{2019}]%
+        {xiao_collaborative_2019}
+\bibfield{author}{\bibinfo{person}{Yunlong Xiao}, \bibinfo{person}{Yang Gu},
+  \bibinfo{person}{Jiwei Wang}, {and} \bibinfo{person}{Tong Wu}.}
+  \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{A {Collaborative} {Multi}-modality {Selection}
+  {Method} {Based} on {Data} {Utility} {Assessment}}. In
+  \bibinfo{booktitle}{\emph{2019 {IEEE} {SmartWorld}, {Ubiquitous}
+  {Intelligence} \& {Computing}, {Advanced} \& {Trusted} {Computing},
+  {Scalable} {Computing} \& {Communications}, {Cloud} \& {Big} {Data}
+  {Computing}, {Internet} of {People} and {Smart} {City} {Innovation}
+  ({SmartWorld}/{SCALCOM}/{UIC}/{ATC}/{CBDCom}/{IOP}/{SCI})}}.
+  \bibinfo{publisher}{IEEE}, \bibinfo{address}{Leicester, United Kingdom},
+  \bibinfo{pages}{454--459}.
+\newblock
+\showISBNx{978-1-72814-034-6}
+\urldef\tempurl%
+\url{https://doi.org/10.1109/SmartWorld-UIC-ATC-SCALCOM-IOP-SCI.2019.00120}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Xin, Miao, Parameswaran, and Polyzotis}{Xin
+  et~al\mbox{.}}{2021}]%
+        {xin_production_2021}
+\bibfield{author}{\bibinfo{person}{Doris Xin}, \bibinfo{person}{Hui Miao},
+  \bibinfo{person}{Aditya Parameswaran}, {and} \bibinfo{person}{Neoklis
+  Polyzotis}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Production {Machine} {Learning} {Pipelines}:
+  {Empirical} {Analysis} and {Optimization} {Opportunities}}.
+\newblock \bibinfo{journal}{\emph{arXiv:2103.16007 [cs]}}
+  (\bibinfo{date}{March} \bibinfo{year}{2021}).
+\newblock
+\urldef\tempurl%
+\url{http://arxiv.org/abs/2103.16007}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{arXiv: 2103.16007.}
+
+
+\bibitem[\protect\citeauthoryear{Yuan, Yu, Wang, Li, and Ji}{Yuan
+  et~al\mbox{.}}{2021}]%
+        {yuan_explainability_2021}
+\bibfield{author}{\bibinfo{person}{Hao Yuan}, \bibinfo{person}{Haiyang Yu},
+  \bibinfo{person}{Jie Wang}, \bibinfo{person}{Kang Li}, {and}
+  \bibinfo{person}{Shuiwang Ji}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{On {Explainability} of {Graph} {Neural} {Networks}
+  via {Subgraph} {Explorations}}.
+\newblock \bibinfo{journal}{\emph{arXiv:2102.05152 [cs]}} (\bibinfo{date}{May}
+  \bibinfo{year}{2021}).
+\newblock
+\urldef\tempurl%
+\url{http://arxiv.org/abs/2102.05152}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{arXiv: 2102.05152.}
+
+
+\end{thebibliography}
